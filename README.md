@@ -21,14 +21,6 @@ This project is inspired by my research on Explainable AI in Ethical Hacking and
 ⚠️ Disclaimer
 This project is for educational and cybersecurity research purposes only.
 
-## 🧾 Example Output
-The model provides both prediction and explanation:
-
-- Prediction: Phishing
-- Explanation:
-  - URL length contributed 0.30
-  - Presence of '@' symbol contributed 0.25
- 
     
 👨‍💻 Author
 Dr. Abiola Akinyemi
