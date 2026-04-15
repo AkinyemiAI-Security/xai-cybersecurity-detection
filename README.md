@@ -15,14 +15,14 @@ This project implements an Explainable Artificial Intelligence (XAI) system for 
 ## 🧠 Explainability Method
 - Feature importance analysis using Random Forest
 
-📄 Related Research
+📄 Related Research:
 This project is inspired by my research on Explainable AI in Ethical Hacking and Cybersecurity.
 
-⚠️ Disclaimer
+⚠️ Disclaimer:
 This project is for educational and cybersecurity research purposes only.
 
     
-👨‍💻 Author
+👨‍💻 Author:
 Dr. Abiola Akinyemi
 
 ## ▶️ How to Run
